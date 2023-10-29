@@ -1,20 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "Amazon",
-      link: "https://amazon.com/",
-      image: "/images/icons/apps/amazon.png",
-      categories: ["all", "media"],
-      error: false
-    },
-    {
-      name: "BuzzFeed Quizzes",
-      link: "https://buzzfeed.com/quizzes",
-      image: "/images/icons/apps/buzzfeed.png",
-      categories: ["all", "media"],
-      error: false
-    },
-    {
       name: "Free Movies Watch",
       link: "https://freemovieswatch.tv",
       image: "/images/icons/freemovieswatch.png",
